@@ -7,8 +7,8 @@
 
    Filename: mas_reg2.js
 
-   Author:  
-   Date:    
+   Author:  Anthony Arias
+   Date:    4/23/19    
 
 
    Function List
@@ -20,4 +20,3 @@
 
 
 */
-
